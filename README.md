@@ -22,8 +22,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="![image](https://github.com/user-attachments/assets/1b57c313-5068-4546-abcf-698371064a9b)
-"/>
+<img src="https://i.pinimg.com/564x/bd/90/5c/bd905c8f6d3a7768fe59bb0557f40335.jpg"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NgocVu0906&icon=0&color=0)](https://visitcount.itsvg.in)
