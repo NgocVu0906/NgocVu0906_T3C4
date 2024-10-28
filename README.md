@@ -6,15 +6,15 @@
 
 - 🌱 I’m currently learning **[CSS, HTML, JS, C++ ,C#...]**
 
-- 👯 I’m looking to collaborate on **E-commerce Website Source Code**
+- 👯 I’m looking to collaborate on **Website Source Code**
 
-- 🤔 I’m looking for help with **[E-commerce Website: Present a project for building a sales website, including features such as a shopping cart, online payment, and order management.]**
+- 🤔 I’m looking for help with **[ Website: Present a project for building a sales website, including features such as a shopping cart, online payment, and order management.]**
 
 - 💬 Ask me about **[frontend/backend]**
 
 - 📫 How to reach me **Vudo568@gmail.com**
 
-- ⚡ Fun fact **[A fun fact about you is that you are a sociable and easygoing student who always creates a lively atmosphere around you. You live in Ho Chi Minh City, where you not only enjoy the vibrant pace of life but also have a lovely girlfriend. Additionally, you are passionate about basketball and often spend time on the court to stay fit and relax. This combination of a friendly personality and a love for sports helps you easily connect with those around you!]**
+- ⚡ Fun fact **[A fun fact about me is that I am a sociable and easygoing student who always creates a lively atmosphere around me. I live in Ho Chi Minh City, where I not only enjoy the vibrant pace of life but also have a lovely girlfriend. Additionally, I am passionate about basketball and often spend time on the court to stay fit and relax. This combination of a friendly personality and a love for sports helps me easily connect with those around me!]**
 
 ###
 
