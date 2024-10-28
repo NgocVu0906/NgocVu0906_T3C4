@@ -1,4 +1,4 @@
-<p align="left">Tui tên Vũ hiện đang học thực hành môn Công Nghệ Phần Mềm do thầy Khoa giảng dạy.<br>Mình là sinh viên năm 3 của đại học HUFLIT cũng có thể là sinh viên năm 7 sắp tới :))) maybe <br><br><br>Chào mừng bạn đến với trang redme thông ti sơ lược về mình </p>
+<p align="left">Tui tên Vũ hiện đang học thực hành môn Công Nghệ Phần Mềm do thầy Khoa giảng dạy.<br>Mình là sinh viên năm 3 của đại học HUFLIT cũng có thể là sinh viên năm 7 sắp tới :))) maybe <br><br><br>Chào mừng bạn đến với trang redme thông tin sơ lược về mình </p>
 
 ###
 
