@@ -15,7 +15,16 @@
 - 📫 How to reach me **Vudo568@gmail.com**
 
 - ⚡ Fun fact **[A fun fact about me is that I am a sociable and easygoing student who always creates a lively atmosphere around me. I live in Ho Chi Minh City, where I not only enjoy the vibrant pace of life but also have a lovely girlfriend. Additionally, I am passionate about basketball and often spend time on the court to stay fit and relax. This combination of a friendly personality and a love for sports helps me easily connect with those around me!]**
+- 🎨 **Hobbies**: In addition to coding, I love exploring the world of art and design. I often spend my weekends painting or trying out new graphic design tools.
+- 🌟 **Favorite Projects**: I'm particularly proud of my project on building a community forum. It not only sharpened my coding skills but also helped me connect with like-minded individuals.
+- 📚 **Learning Goals**: I aim to become proficient in full-stack development and hope to master frameworks like React and Node.js by the end of this year.
+- 📸 **A Photo I Love**: Here's a snapshot from a recent trip to the mountains. Nature inspires me to think creatively!
 
+![Mountain Trip](link-to-your-photo)
+
+- 🏀 **Basketball Enthusiast**: I play basketball every week! I believe that sports teach teamwork and discipline, which are crucial in software development.
+- 🎯 **Personal Challenge**: I'm currently challenging myself to code for at least one hour every day, no matter what!
+- ❤️ **Community Engagement**: I enjoy volunteering for local tech events to share my knowledge and help others learn about programming.
 ###
 
 <div align="center">
