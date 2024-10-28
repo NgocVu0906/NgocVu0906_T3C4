@@ -1,4 +1,4 @@
-<p align="left">Tui tên Vũ hiện đang học thực hành môn Công Nghệ Phần Mềm do thầy Khoa giảng dạy.<br>Mình là sinh viên năm 3 của đại học HUFLIT cũng có thể là sinh viên năm 7 sắp tới :))) maybe <br><br><br>Chào mừng bạn đến với trang redme thông tin sơ lược về mình </p>
+<p align="left">My name is Vu, and I am currently studying Software Engineering practices taught by Professor Khoa. I am a third-year student at HUFLIT University, and I might also be a seventh-year student soon. :)))<br><br><br>Welcome to my README page, which provides a brief introduction about myself.</p>
 <h1 align="center">Hi 👋, I'm [Ngoc Vu]</h1>
 <h3 align="center">A passionate IT enthusiast and software developer from Vietnam</h3>
 
