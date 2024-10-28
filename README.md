@@ -18,9 +18,10 @@
 - 🎨 **Hobbies**: In addition to coding, I love exploring the world of art and design. I often spend my weekends painting or trying out new graphic design tools.
 - 🌟 **Favorite Projects**: I'm particularly proud of my project on building a community forum. It not only sharpened my coding skills but also helped me connect with like-minded individuals.
 - 📚 **Learning Goals**: I aim to become proficient in full-stack development and hope to master frameworks like React and Node.js by the end of this year.
-- 📸 **A Photo I Love**: Here's a snapshot from a recent trip to the mountains. Nature inspires me to think creatively!
+- 📸 **A Photo I Love**: This is one of my favorite photos taken when I arrived in Da Lat after a hard semester
 
-![Mountain Trip](link-to-your-photo)
+<img src="![Uploading HIHU.png…]()
+"/>
 
 - 🏀 **Basketball Enthusiast**: I play basketball every week! I believe that sports teach teamwork and discipline, which are crucial in software development.
 - 🎯 **Personal Challenge**: I'm currently challenging myself to code for at least one hour every day, no matter what!
