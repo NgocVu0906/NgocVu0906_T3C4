@@ -15,13 +15,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NgocVu0906&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NgocVu0906&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
+## 🏆 A litle GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=NgocVu0906&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+### ✍️:VV Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
+### 😂Code hit me :V
 <img src="https://i.pinimg.com/564x/bd/90/5c/bd905c8f6d3a7768fe59bb0557f40335.jpg"/>
 
 ---
