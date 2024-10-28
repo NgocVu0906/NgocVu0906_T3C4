@@ -1,4 +1,20 @@
 <p align="left">Tui tên Vũ hiện đang học thực hành môn Công Nghệ Phần Mềm do thầy Khoa giảng dạy.<br>Mình là sinh viên năm 3 của đại học HUFLIT cũng có thể là sinh viên năm 7 sắp tới :))) maybe <br><br><br>Chào mừng bạn đến với trang redme thông tin sơ lược về mình </p>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate IT enthusiast and software developer from Vietnam</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
+
+- 🌱 I’m currently learning **[Technology/Tool you're learning]**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 🤔 I’m looking for help with **[Specific technology or project]**
+
+- 💬 Ask me about **[Your specializations, e.g., frontend/backend, specific languages]**
+
+- 📫 How to reach me **your-email@example.com**
+
+- ⚡ Fun fact **[Interesting fact about yourself]**
 
 ###
 
@@ -26,22 +42,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NgocVu0906&icon=0&color=0)](https://visitcount.itsvg.in)
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate IT enthusiast and software developer from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
-
-- 🌱 I’m currently learning **[Technology/Tool you're learning]**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 🤔 I’m looking for help with **[Specific technology or project]**
-
-- 💬 Ask me about **[Your specializations, e.g., frontend/backend, specific languages]**
-
-- 📫 How to reach me **your-email@example.com**
-
-- ⚡ Fun fact **[Interesting fact about yourself]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
