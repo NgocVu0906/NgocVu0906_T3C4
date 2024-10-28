@@ -21,7 +21,6 @@
 - 📸 **A Photo I Love**: This is one of my favorite photos taken when I arrived in Da Lat after a hard semester
 
 <img src="<img width="720" alt="HIHU" src="https://github.com/user-attachments/assets/c9284191-a211-4c45-b985-e79307f35df9">
-
 "/>
 
 - 🏀 **Basketball Enthusiast**: I play basketball every week! I believe that sports teach teamwork and discipline, which are crucial in software development.
