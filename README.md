@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
 
-- 🌱 I’m currently learning **[Technology/Tool you're learning]**
+- 🌱 I’m currently learning **[CSS, HTML, JS, C++ ,C#...]**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **E-commerce Website Source Code**
 
-- 🤔 I’m looking for help with **[Specific technology or project]**
+- 🤔 I’m looking for help with **[E-commerce Website: Present a project for building a sales website, including features such as a shopping cart, online payment, and order management.]**
 
-- 💬 Ask me about **[Your specializations, e.g., frontend/backend, specific languages]**
+- 💬 Ask me about **[frontend/backend]**
 
 - 📫 How to reach me **Vudo568@gmail.com**
 
