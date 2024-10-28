@@ -20,7 +20,7 @@
 - 📚 **Learning Goals**: I aim to become proficient in full-stack development and hope to master frameworks like React and Node.js by the end of this year.
 - 📸 **A Photo I Love**: This is one of my favorite photos taken when I arrived in Da Lat after a hard semester
 
-"<img width="500" alt="HIHU" src="https://github.com/user-attachments/assets/c9284191-a211-4c45-b985-e79307f35df9">
+"<img width="250" alt="HIHU" src="https://github.com/user-attachments/assets/c9284191-a211-4c45-b985-e79307f35df9">
 
 
 - 🏀 **Basketball Enthusiast**: I play basketball every week! I believe that sports teach teamwork and discipline, which are crucial in software development.
