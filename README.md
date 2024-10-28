@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **[CSS, HTML, JS, C++ ,C#...]**
 
-- 👯 I’m looking to collaborate on **Website Code**
+- 👯 I’m looking to collaborate on **Many platforms related to the website**
 
 - 🤔 I’m looking for help with **[ Website: Present a project for building a sales website, including features such as a shopping cart, online payment, and order management.]**
 
