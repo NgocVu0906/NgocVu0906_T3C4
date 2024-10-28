@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **[Your specializations, e.g., frontend/backend, specific languages]**
 
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me **Vudo568@gmail.com**
 
-- ⚡ Fun fact **[Interesting fact about yourself]**
+- ⚡ Fun fact **[A fun fact about you is that you are a sociable and easygoing student who always creates a lively atmosphere around you. You live in Ho Chi Minh City, where you not only enjoy the vibrant pace of life but also have a lovely girlfriend. Additionally, you are passionate about basketball and often spend time on the court to stay fit and relax. This combination of a friendly personality and a love for sports helps you easily connect with those around you!]**
 
 ###
 
